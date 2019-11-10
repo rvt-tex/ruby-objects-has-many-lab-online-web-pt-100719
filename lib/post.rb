@@ -1,5 +1,5 @@
 class Post
-<<<<<<< HEAD
+#<<<<<<< HEAD
 
     attr_accessor :title, :author
     #attr_reader :author
@@ -27,7 +27,7 @@ class Post
       end
     end
   end
-=======
+#=======
   attr_accessor :title, :author
 
   @@all = []
