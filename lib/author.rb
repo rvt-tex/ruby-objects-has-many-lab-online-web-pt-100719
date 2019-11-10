@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#<<<<<<< HEAD
   
 class Author
 
@@ -34,7 +34,7 @@ class Author
       @@post_count
     end
   end
-=======
+#=======
 class Author
 
   attr_accessor :name, :posts
@@ -63,4 +63,4 @@ class Author
     @@post_count
   end
 end
->>>>>>> 4b030e1912c890789c0942807b06e86e86aaa10f
+#>>>>>>> 4b030e1912c890789c0942807b06e86e86aaa10f
